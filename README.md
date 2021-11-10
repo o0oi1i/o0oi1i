@@ -5,6 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=o0oi1i" alt="o0oi1i" /></a> </p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=o0oi1i)](https://github.com/o0oi1i/github-readme-stats)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/o0oi1icom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="o0oi1icom" height="30" width="40" /></a>
