@@ -6,6 +6,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=o0oi1i" alt="o0oi1i" /></a> </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=o0oi1i)](https://github.com/o0oi1i/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=o0oi1i&show_icons=true&theme=synthwave)
+
+
 
 
 <h3 align="left">Connect with me:</h3>
