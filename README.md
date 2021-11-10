@@ -2,7 +2,7 @@
 <h3 align="center">A full stack engineer from China</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=o0oi1i&show_icons=true&theme=synthwave)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=o0oi1i&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=o0oi1i&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=o0oi1i&" alt="o0oi1i" /></p>
 
