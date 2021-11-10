@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=o0oi1i" alt="o0oi1i" /></a> </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=o0oi1i&show_icons=true&theme=synthwave)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=o0oi1i&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=o0oi1i&" alt="o0oi1i" /></p>
 
