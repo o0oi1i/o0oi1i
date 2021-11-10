@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm o0oi1i</h1>
-<h3 align="center">A developer from China</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=o0oi1i&label=Profile%20views&color=0e75b6&style=flat" alt="o0oi1i" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=o0oi1i" alt="o0oi1i" /></a> </p>
+<h1 align="center">👊, I'm o0oi1i 🙏</h1>
+<h3 align="center">A full stack engineer from China</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=o0oi1i&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=o0oi1i&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -18,7 +14,7 @@
 <a href="https://stackoverflow.com/users/7146219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7146219" height="30" width="40" /></a>
 <a href="https://dribbble.com/o0oi1i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="o0oi1i" height="30" width="40" /></a>
 <a href="https://medium.com/o0oi1i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="o0oi1i" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/o0oi1i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="o0oi1i" height="30" width="40" /></a>
+<a href="https://leetcode-cn.com//o0oi1i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="o0oi1i" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
