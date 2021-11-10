@@ -1,9 +1,9 @@
 <h1 align="center">👊 o0oi1i 🙏</h1>
-<h3 align="center">Full Stack</h3>
+<h3 align="center">Full Stack Develop</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=o0oi1i&show_icons=true&theme=midnight-purple&count_private=true&text_color=9370DB&border_color=9370DB&bg_color=45,9370DB,E6E6FA&border_radius=22)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=o0oi1i&layout=default&theme=midnight-purple&count_private=true&text_color=9370DB&border_color=9370DB&bg_color=45,9370DB,E6E6FA&border_radius=22)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=o0oi1i&layout=compact&theme=midnight-purple&count_private=true&text_color=9370DB&border_color=9370DB&bg_color=45,9370DB,E6E6FA&border_radius=22)
 
 
 <h3 align="left">Connect with me:</h3>
